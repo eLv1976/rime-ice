@@ -1,0 +1,21 @@
+# Rime dictionary of eLv，根据个人喜好进行增减
+# encoding: utf-8
+---
+name: eLv
+version: "2025-09-21"
+sort: by_weight
+...
+# 中文输入状态下，当默认输入中文标点时，输入英文标点
+_	xhx	1
+_	xh	1
+,	dh	1
+.	jh	1
+;	fh	1
+:	mh	1
+'	dyh	1
+'	dy	1
+"	syh	1
+"	sy	1
+?	wh	1
+?	ywh	1
+!	th	1
