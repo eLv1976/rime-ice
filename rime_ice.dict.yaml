@@ -3,7 +3,7 @@
 
 ---
 name: rime_ice
-version: "2024-11-27"
+version: "2025-09-24"
 import_tables:
   - cn_dicts/8105     # 字表
   # - cn_dicts/41448  # 大字表（按需启用）（启用时和 8105 同时启用并放在 8105 下面）
@@ -14,6 +14,9 @@ import_tables:
 
   # 建议把扩展词库放到下面，有重复词条时，最上面的权重生效
   - cn_dicts/eLv
+  - cn_dicts/sogou_chengyu_poem_people_shenzhen
+  - cn_dicts/biaozhun
+  - cn_dicts/sogou_network_pop_new_words
 ...
 
 # 按需启用：
